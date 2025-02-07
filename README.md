@@ -11,9 +11,14 @@ collide and cause damage to the driver, passenger and the taxi. If the driver or
 decreases to below 0, you lose! Can you beat the target score before the time elapses to complete the
 game?
 
+<h2>Implementation Details:</h2>
+This game was made using Java and the Basic Aademic Game Engine Library (BAGEL) developed at UniMelb.
+The code for this project is not entirely mine; it is based on the skeleton code made by the teaching
+staff which had the basic implementations of the first part of the project (movement of taxi, simple
+win/loss mechanics and opening and end screens for the game)
 
 <h2>Demo:</h2>
-Note: These win/loss demo videos were produced by UniMelb’s 2024 Sem 2 SWEN20003 teaching team
+These win/loss demo videos were produced by UniMelb’s 2024 Sem 2 SWEN20003 teaching team
 <h3>Winning Demo:</h3>
 
 ![Winning Demo](https://github.com/user-attachments/assets/12c04391-0881-4a71-bf9f-3842bd261460)
